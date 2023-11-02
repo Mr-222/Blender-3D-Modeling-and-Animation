@@ -4,9 +4,9 @@ I'm learning modeling, animation and materials these days! Here, I've documented
 
 ## Contents
 
-1. [Coin Station](#Coin Station)
-2. [Flying Car](#Flying Car)
-3. [Stump](#animation)
+1. [Coin Station](#Coin-Station)
+2. [Flying Car](#Flying-Car)
+3. [Stump](#stump)
 
 ---
 
