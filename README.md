@@ -7,6 +7,7 @@ I'm learning modeling, animation and materials these days! Here, I've documented
 1. [Coin Station](#Coin-Station)
 2. [Flying Car](#Flying-Car)
 3. [Stump](#stump)
+4. [Bullet](#Bullet)
 
 ---
 
@@ -37,3 +38,15 @@ Sculpting is an art of shaping a model like a sculptor. This section showcases t
 - **Files:** [Stump.blend](./Blender_Projects/Stump.blend)
 
 ![](./Pics/Stump.png)
+
+---
+
+### Stump
+
+Physics simulation is Blender's another powerful feature, combined with animation, we can create vivid visual effects.  
+
+* **Files:** [Bullet.blend](./Blender_Projects/Bullet.blend)
+
+![](./Pics/Bullet.png)
+
+
