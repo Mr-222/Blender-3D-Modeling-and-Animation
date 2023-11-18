@@ -8,6 +8,7 @@ I'm learning modeling, animation and materials these days! Here, I've documented
 2. [Flying Car](#Flying-Car)
 3. [Stump](#stump)
 4. [Bullet](#Bullet)
+5. [Suzanne](#Suzanne)
 
 ---
 
@@ -49,4 +50,12 @@ Physics simulation is Blender's another powerful feature, combined with animatio
 
 ![](./Pics/Bullet.png)
 
+---
 
+### Suzanne
+
+Use simple geometry nodes to create Suzanne.
+
+- **Files:** [suzanne.blend](./Blender_Projects/suzanne.blend)
+
+<img title="" src="./Pics/Suzanne.png" alt="" style="zoom:80%;">
