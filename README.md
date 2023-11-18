@@ -58,4 +58,4 @@ Use simple geometry nodes to create Suzanne.
 
 - **Files:** [suzanne.blend](./Blender_Projects/suzanne.blend)
 
-<img title="" src="./Pics/Suzanne.png" alt="" style="zoom:80%;">
+<img title="" src="./Pics/suzanne.png" alt="" style="zoom:80%;">
